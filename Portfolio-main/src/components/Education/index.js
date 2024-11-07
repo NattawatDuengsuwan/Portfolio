@@ -1,4 +1,3 @@
-
 import { education, experiences } from '../../data/constants';
 import TimelineSeparator from '@mui/lab/TimelineSeparator';
 import TimelineConnector from '@mui/lab/TimelineConnector';

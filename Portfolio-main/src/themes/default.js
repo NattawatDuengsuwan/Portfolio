@@ -1,14 +1,14 @@
 export default {
-    // Temp fonts
+  
     fonts: {
       title: "Space Grotesk, sans-serif",
       main: "Space Grotesk, sans-serif"
     },
-    // Colors for layout
+
     colors: {
-      primary1: "#854CE6",
+      primary1: "#00e3ff",
       background1: "#222A35",
-      button: "#854CE6",
+      button: "#1a3de4",
       background2: "#19212C",
       text: "#C8CFD8",
       text1: "#F2F5F7",
@@ -16,7 +16,7 @@ export default {
       text3: "#575C66",
       footerBackground: "#00012B"
     },
-    // Breakpoints for responsive design
+    
     breakpoints: {
       sm: 'screen and (max-width: 640px)',
       md: 'screen and (max-width: 768px)',
