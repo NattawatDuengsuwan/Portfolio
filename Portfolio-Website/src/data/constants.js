@@ -7,7 +7,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a student in Electronics Engineering (Computer) with a strong interest in studying website design. I am currently seeking internship opportunities to apply my technical skills in real-world projects, as well as to enhance and further develop my capabilities in this field.",
+    "I am a student in Electronics Engineering (Computer) with a strong interest in studying website design. I am currently seeking internship opportunities to apply my technical skills in real-world, as well as to enhance and further develop my capabilities in this field.",
   github: "https://github.com/NattawatDuengsuwan",
   resume:
     "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
@@ -161,7 +161,7 @@ export const experiences = [
     role: "Open Source Contributor ",
     company: "GirlScript Summer of Code",
     date: "May 2023 - Present",
-    desc: "Contributing to different open-source projects and learn from industry experts",
+    desc: "Contributing to different open-source  and learn from industry experts",
     doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
 ];
