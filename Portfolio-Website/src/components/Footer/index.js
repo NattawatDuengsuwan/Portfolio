@@ -86,7 +86,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Nattawat Duegsuwan</Logo>
+        <Logo>Wongsakorn Na Phatthalung</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -98,7 +98,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 NattawatDuengsuwan. All rights reserved.
+          &copy; 2024 Wongsakorn. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

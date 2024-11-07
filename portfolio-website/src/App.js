@@ -1,16 +1,17 @@
-import { ThemeProvider } from "styled-components";
-import { useState,  } from "react";
-import { darkTheme, lightTheme } from './utils/Themes.js'
-import Navbar from "./components/Navbar";
-import './App.css';
 import { BrowserRouter as Router } from 'react-router-dom';
+import { darkTheme, lightTheme } from './utils/Themes.js'
 import HeroSection from "./components/HeroSection";
-import Skills from "./components/Skills";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import { ThemeProvider } from "styled-components";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
+import Contact from "./components/Contact";
+import Skills from "./components/Skills";
+import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
 import styled from "styled-components";
+import { useState, } from "react";
+import './App.css';
+
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -24,8 +25,8 @@ const Wrapper = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
 function App() {
-  const [darkMode, ] = useState(true);
-  const [openModal, ] = useState({ state: false, project: null });
+  const [darkMode,] = useState(true);
+  const [openModal,] = useState({ state: false, });
   console.log(openModal)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
@@ -37,13 +38,11 @@ function App() {
             <Skills />
             <Experience />
           </Wrapper>
-          
           <Wrapper>
             <Education />
             <Contact />
           </Wrapper>
           <Footer />
-          
         </Body>
       </Router>
     </ThemeProvider>

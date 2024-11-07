@@ -162,7 +162,6 @@ export const experiences = [
     company: "GirlScript Summer of Code",
     date: "May 2023 - Present",
     desc: "Contributing to different open-source  and learn from industry experts",
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
   },
 ];
 
@@ -189,9 +188,3 @@ export const education = [
 
 
 
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2021, text: "Started my own platform" },
-];
