@@ -9,10 +9,10 @@ export const Bio = {
   ],
   description:
     "I am an Electronics Engineering (Computer) student with a strong interest in studying website design. I am currently seeking an internship to apply my technical skills in real-world projects and further develop my abilities in these areas.",
-  github:     "https://github.com/ltzGon",
-  resume:     "https://drive.google.com/file/d/1yVhbBk4dnJDjPqRI9So2CrOZQzyVYRz-/view?usp=sharing",
-  insta:      "https://www.instagram.com/dekchaigon/",
-  facebook:   "https://www.facebook.com/Gon1811/",
+  github:     "https://github.com/NattawatDuengsuwan",
+  resume:     "https://drive.google.com/file/d/14mt-WEFbjBE2BYiEUxQ0dp6ecwHZHIOd/view?usp=sharing",
+  insta:      "https://www.instagram.com/_immpxa/",
+  facebook:   "https://www.facebook.com/profile.php?id=100012959926382",
 };
 
 export const skills = [
@@ -177,17 +177,17 @@ export const education = [
     img: "https://yt3.googleusercontent.com/Dg-rzFmXzSAJN8ev-e1BCJPDYFn5Zyulb3z48DHg0TLDKMpqj9wuMmGcplYIrYd8Q97PfCH8JQ=s900-c-k-c0x00ffffff-no-rj",
     school: "King Mongkut's University of Technology North Bangkok",
     date:   "July 2021 - Present",
-    grade:  "2.24 GPAX",
+    grade:  "2.07 GPAX",
     desc:   "I am currently pursuing a Bachelor's degree in Computer Engineering at King Mongkut's University of Technology North Bangkok.",
     degree: "Bachelor of Engineering - EnET(C), Electronics Engineering (Computer)",
   },
   {
     id: 1,
-    img: "https://ptl.ac.th/wp-content/uploads/2021/05/FB_IMG_1620936967342-768x768.jpg",
-    school: "Phatthalung Technical College",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEdwmKeUDHhxpKPKvy4xE_gzbTxGNMGKu7A&s",
+    school: "Samut Prakan Technical College",
     date:   "May 2019 - Apr 2021",
-    grade:  "3.58 GPAX",
-    desc:   "I have a background in computer from studying here. I have many good memories of friends. It was the best time in high school.",
-    degree: "Certificate of Vocational Education in Computer Technology",
+    grade:  "2.97 GPAX",
+    desc:   "I have knowledge in electronics from studying here and would like to have good memories of this place.",
+    degree: "professional certificate electronics",
   },
 ];
